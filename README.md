@@ -1,5 +1,4 @@
-# PROYECTO MÓDULO 2
-ProyectoMusicStream
+## PROYECTO MÓDULO 2: ProyectoMusicStream
 ### Descripción
 
 Este proyecto, desarrollado por Yeritza Rafaela Moreno Carrillo y Ana Pilar Dueñas Agudo, consiste en la extracción y análisis de datos musicales obtenidos a partir de las APIs de Spotify y Last.FM.
@@ -15,8 +14,6 @@ Se trabajó  con las tablas:
 artistas
 
 canciones
-
-
 
 
 ## Consultas realizadas
@@ -78,3 +75,10 @@ Python (extracción desde APIs, creación de dataframes).
 MySQL (volcado de datos y consultas).
 
 Git y GitHub (control de versiones).
+
+
+# Mi Proyecto
+
+Aquí puedes ver mi presentación de Genially:
+
+[Ver presentación](https://view.genially.com/68c08cbeff8b74cf1f73f4c2/presentation-go)
